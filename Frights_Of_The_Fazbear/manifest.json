@@ -1,0 +1,10 @@
+{
+    "name": "Frights_Of_The_Fazbear",
+    "version_number": "1.3.0",
+    "website_url": "https://github.com/TheOneAndOnlyAsh/ToAoA-Lethal-Repository.git",
+    "description": "A FNAF theamed audio replacment mod to scare the socks off you!",
+    "dependencies": [
+        "no00ob-LCSoundTool-1.3.2",
+        "Clementinise-CustomSounds-2.1.2"
+    ]
+}
